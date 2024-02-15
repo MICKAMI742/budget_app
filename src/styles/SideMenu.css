@@ -1,0 +1,29 @@
+.main {
+    background-color: #4333A0;
+    padding: 10%;
+}
+
+.balance {
+    background-color: #5142A7;
+    margin: 2%;
+    padding: 10%;
+    border-radius: 1em;
+}
+
+.btn-primary-outline {
+    background-color: transparent;
+    border-color: transparent;
+    margin: 2%;
+    border-radius: 1em;
+}
+
+.btn-primary-outline:hover {
+    background-color: #5142A7;
+    border-color: #5142A7;
+    color: white;
+    border-radius: 1em;
+}
+
+.current {
+    color: black;
+}
