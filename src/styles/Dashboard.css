@@ -1,0 +1,22 @@
+.card {
+    background: linear-gradient(90deg, #5142A7 0%, #4333A0 50%, #523bd5 100%);
+    padding: 1em;
+    margin: 1em;
+}
+
+.dashboard {
+    padding: 1em;
+}
+
+.cardTitle {
+    color: lightgoldenrodyellow;
+    font-size: 1em;
+    text-align: left;
+}
+
+.cardNumber {
+    color: lightgoldenrodyellow;
+    font-size: 1em;
+    text-align: center;
+    max-width: 100%;
+}

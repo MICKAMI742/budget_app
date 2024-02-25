@@ -1,6 +1,7 @@
 .main {
     background-color: #4333A0;
     padding: 10%;
+    max-height: 100%;
 }
 
 .balance {
